@@ -1,4 +1,3 @@
-         Hi 👋, I'm Jaden
 ## I'm just another 15 Year old German NodeJS Developer
 _________________________________________________________
 
