@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jadem</h1>
 <h3 align="center">I'm just another 15 Year old German NodeJS Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=exzzzero&label=Profile%20views&color=0e75b6&style=flat" alt="exzzzero" /> </p>
-
 <p align="left"> <a href="https://twitter.com/exzzzero" target="blank"><img src="https://img.shields.io/twitter/follow/exzzzero?logo=twitter&style=for-the-badge" alt="exzzzero" /></a> </p>
-
+__
 - 🔭 I’m currently working on [IOX](https://discord.gg/QrJbGjq)
 
 - 🌱 I’m currently learning **everything that i can cuz**
