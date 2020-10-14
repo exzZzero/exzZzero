@@ -2,7 +2,7 @@
 <h3 align="center">I'm just another 15 Year old German NodeJS Developer</h3>
 
 <p align="left"> <a href="https://twitter.com/exzzzero" target="blank"><img src="https://img.shields.io/twitter/follow/exzzzero?logo=twitter&style=for-the-badge" alt="exzzzero" /></a> </p>
-_________________________________________________________________________
+
 - 🔭 I’m currently working on [IOX](https://discord.gg/QrJbGjq)
 
 - 🌱 I’m currently learning **everything that i can cuz**
@@ -16,7 +16,7 @@ _________________________________________________________________________
 - 💬 Ask me about **everything you want im bored**
 
 - 📫 How to reach me **jadensipetan@outlook.de or on Disocord FoX#6741**
-
+_________________________________________________________________________
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/exzzzero" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="exzzzero" height="30" width="40" /></a>
