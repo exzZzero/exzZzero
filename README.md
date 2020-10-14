@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **everything you want im bored**
 
-- 📫 How to reach me **jadensipetan@outlook.de or on Disocord FoX#6741**
+- 📫 How to reach me **jadensipetan@outlook.de or on Discord FoX#6741**
 _________________________________________________________________________
 <p align="left">
 <h3 align="left">Connect with me:</h3>
