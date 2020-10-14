@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jadem</h1>
 <h3 align="center">I'm just another 15 Year old German NodeJS Developer</h3>
-__________________________________________________________________________
+
 - 🔭 I’m currently working on [IOX](https://discord.gg/QrJbGjq)
 
 - 🌱 I’m currently learning **everything that i can cuz**
