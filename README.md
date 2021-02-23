@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/IoxStudio" target="blank"><img src="https://img.shields.io/twitter/follow/exzzzero?logo=twitter&style=for-the-badge" alt="exzzzero" /></a> </p>
 
-- 🔭 I’m currently working on [IOX](https://discord.gg/QrJbGjq)
+- 🔭 I’m currently working on [ModMail]
 
 - 🌱 I’m currently learning **everything that i can cuz**
 
-- 🤝 I’m looking to collaborate on [IOX](https://discord.gg/QrJbGjq)
+- 🤝 I’m looking to collaborate on [ModMail]
 
 - 👨‍💻 All of my projects are available at **Currently still on private**
 
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **everything you want im bored**
 
-- 📫 How to reach me **jadensipetan@outlook.de or on Discord FoX#6741**
+- 📫 How to reach me **jadensipetan@outlook.de or on Discord FoX#2627**
 _________________________________________________________________________
 <p align="left">
 <h3 align="left">Connect with me:</h3>
