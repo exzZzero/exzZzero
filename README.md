@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on ModMail
 
-- 🌱 I’m currently learning **everything that i can cuz**
+- 🌱 I’m currently learning **everything that I can cuz**
 
 - 🤝 I’m looking to collaborate on ModMail
 
