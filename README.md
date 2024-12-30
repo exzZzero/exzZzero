@@ -1,7 +1,6 @@
 <h1 align="center">Hello</h1>
 <h3 align="center"German NodeJS Developer</h3>
 
-<p align="left"> <a href="https://twitter.com/IoxStudio" target="blank"><img src="https://img.shields.io/twitter/follow/exzzzero?logo=twitter&style=for-the-badge" alt="exzzzero" /></a> </p>
 
 - 🔭 I’m currently working on EMPTY
 
