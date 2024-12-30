@@ -3,19 +3,17 @@
 
 <p align="left"> <a href="https://twitter.com/IoxStudio" target="blank"><img src="https://img.shields.io/twitter/follow/exzzzero?logo=twitter&style=for-the-badge" alt="exzzzero" /></a> </p>
 
-- 🔭 I’m currently working on ModMail
+- 🔭 I’m currently working on EMPTY
 
 - 🌱 I’m currently learning **everything that I can cuz**
 
-- 🤝 I’m looking to collaborate on ModMail
-
 - 👨‍💻 All of my projects are available at **Currently still on private**
 
-- 📝 I regulary write articles on [https://discord.gg/QrJbGjq](https://discord.gg/QrJbGjq)
+- 📝 I regulary write articles on EMPTY
 
 - 💬 Ask me about **everything you want im bored**
 
-- 📫 How to reach me **jadensipetan@outlook.de or on Discord FoX#2627**
+- 📫 How to reach me on **Discord dev.therealfoxy**
 _________________________________________________________________________
 <p align="left">
 <h3 align="left">Connect with me:</h3>
